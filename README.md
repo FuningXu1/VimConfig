@@ -1,0 +1,2 @@
+# VimConfig
+My .vrmrc
