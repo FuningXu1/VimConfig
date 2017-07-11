@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/fxu/.ssh'
+let g:netrw_dirhist_2='/Users/fxu/workspace/ember-number-formatting/ember-number-formatting_trunk'
+let g:netrw_dirhist_3='/Users/fxu/.vim'
+let g:netrw_dirhist_4='/Users/fxu/.vim/autoload'
